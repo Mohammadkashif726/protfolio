@@ -20,7 +20,7 @@ const skills = [
         </div>
         <div className='about-content'>
             <div className='about-content-left'>
-                <img src="/kashif.jpeg" className='about-image' />
+                <img src="/kashif.jpeg" alt='' className='about-image' />
             </div>
             <div className='about-content-right'>
                 <span>Full Stack Website Developer</span>

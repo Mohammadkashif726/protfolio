@@ -1,12 +1,10 @@
 import React from 'react'
 import './Navbar.css'
-import NavImg from '../../../src/portfolio.png'
 import {
   FaFacebookF,
   FaInstagram,
   FaLinkedinIn,
-  FaGithub,
-  FaTwitter
+  FaGithub
 } from "react-icons/fa";
 import { Link } from 'react-router-dom';
 

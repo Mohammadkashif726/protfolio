@@ -4,8 +4,7 @@ import {
   FaFacebookF,
   FaInstagram,
   FaLinkedinIn,
-  FaGithub,
-  FaTwitter
+  FaGithub
 } from "react-icons/fa";
 
 function Footer() {
