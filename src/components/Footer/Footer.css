@@ -1,0 +1,29 @@
+.footer{
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+.copyright>span{
+    font-size: 20px;
+}
+.copyright-name{
+    font-weight: bold;
+}
+.footer-icons{
+    display: flex;
+    gap: 20px;
+}
+.footer-icons a{
+    color: grey;
+    font-size: 25px;
+    padding: 10px;
+    border: 1px solid grey;
+    border-radius: 50%;
+}
+.footer-icons a:hover{
+    color:#34b7a7;
+    
+}
