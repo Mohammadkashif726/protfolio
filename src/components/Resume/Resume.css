@@ -1,12 +1,18 @@
 .resume{
     height: 100%;
     padding: 60px 30px;
-    
+        
 }
 .resume-section{
     display:grid;
     grid-template-columns:1fr 1fr;
     gap:60px;
+}
+@media (max-width:768px){
+    .resume-section{
+        display: flex;
+        flex-direction: column;
+    }
 }
 .resume-header{
     display: flex;

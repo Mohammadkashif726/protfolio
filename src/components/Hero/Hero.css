@@ -24,6 +24,7 @@
 }
 .hero-container>button{
     padding: 15px 40px;
+    cursor: pointer;
     text-transform: uppercase;
     border-radius: 30px;
     border: none;
