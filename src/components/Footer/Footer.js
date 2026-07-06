@@ -18,15 +18,15 @@ function Footer() {
                     <FaGithub />
                   </a>
             
-                  <a href="https://linkedin.com/in/yourusername" target="_blank" rel="noopener noreferrer">
+                  <a href="https://www.linkedin.com/in/mohammad-kashif-89477016a" target="_blank" rel="noopener noreferrer">
                     <FaLinkedinIn />
                   </a>
             
-                  <a href="https://instagram.com/yourusername" target="_blank" rel="noopener noreferrer">
+                  <a href="https://www.instagram.com/kashifmohammad726?igsh=MTZ1MmI1ZWk1MnlnYw==" target="_blank" rel="noopener noreferrer">
                     <FaInstagram />
                   </a>
             
-                  <a href="https://facebook.com/yourusername" target="_blank" rel="noopener noreferrer">
+                  <a href="https://www.facebook.com/share/18saqYB8zK/" target="_blank" rel="noopener noreferrer">
                     <FaFacebookF />
                   </a>
         </div>

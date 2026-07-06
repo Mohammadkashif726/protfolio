@@ -30,7 +30,7 @@ function Navbar() {
   return (
     <nav className='navbar'>
       <div className='navbar-left'>
-        <Link to="/" onClick={closeMenu}>
+        <Link to="/" onClick={closeMenu} style={{textDecoration:'none', color:'inherit'}}>
           <span>Kashif</span>
         </Link>
       </div>
@@ -53,13 +53,13 @@ function Navbar() {
         <a href="https://github.com/Mohammadkashif726" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
           <FaGithub />
         </a>
-        <a href="https://linkedin.com/in/yourusername" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
+        <a href="https://www.linkedin.com/in/mohammad-kashif-89477016a" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
           <FaLinkedinIn />
         </a>
-        <a href="https://instagram.com/yourusername" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
+        <a href="https://www.instagram.com/kashifmohammad726?igsh=MTZ1MmI1ZWk1MnlnYw==" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
           <FaInstagram />
         </a>
-        <a href="https://facebook.com/yourusername" target="_blank" rel="noopener noreferrer" aria-label="Facebook">
+        <a href="https://www.facebook.com/share/18saqYB8zK/" target="_blank" rel="noopener noreferrer" aria-label="Facebook">
           <FaFacebookF />
         </a>
       </div>

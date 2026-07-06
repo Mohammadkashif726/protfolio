@@ -8,6 +8,7 @@
     height: 100%;
     font-family:Arial, Helvetica, sans-serif;
     display: flex;
+    text-align: center;
     justify-content: center;
     align-items: center;
     flex-direction: column;
@@ -32,4 +33,21 @@
     background-color: #34b7a7;
     color: white;
     font-weight: bold;
+}
+@media (max-width:768px){
+    .hero-container{
+        gap: 15px;
+    }
+    .hero-container>span:nth-of-type(1){
+    font-size: 25px;
+    font-weight: 500;
+}
+.hero-container>span:nth-of-type(2){
+    font-size: 16px;
+    width: 70%;
+    font-weight: 500;
+}
+.hero-container>button{
+    padding: 15px 40px;
+}
 }
