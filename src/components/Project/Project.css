@@ -1,7 +1,7 @@
 .projects{
     display: flex;
     flex-wrap: wrap;
-    gap: 30px;
+    gap: 25px;
     padding: 30px 50px;
 }
 .project {
