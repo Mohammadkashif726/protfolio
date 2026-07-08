@@ -138,6 +138,9 @@
         align-items: center;
     padding: 5px;
 }
+.project{
+    max-width: 300px;
+}
 .content-header{
     display: flex;
     justify-content: center;
