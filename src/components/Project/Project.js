@@ -15,7 +15,7 @@ function Project() {
                 window.open("https://km-light-shop.vercel.app/", "_blank")
               }
             >
-              Ecommerce Websitesss
+              Ecommerce Website
             </span>
             <button>React.js</button>
           </div>

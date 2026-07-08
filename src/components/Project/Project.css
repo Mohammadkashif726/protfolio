@@ -124,3 +124,26 @@
     flex-direction: column;
 }
 }
+@media (max-width:500px){
+    .projects{
+        gap: 30px;
+        display: flex;
+        align-items: center;
+    padding: 10px;
+}
+.project>img{
+    width: 350px;
+    height: 130px;
+    /* border-radius: 20px 20px 0 0; */
+}
+.content-desc{
+    width: 320px;
+    text-align: justify;
+}
+.project-content{
+    padding:  10px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+}
