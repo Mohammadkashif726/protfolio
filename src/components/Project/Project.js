@@ -1,15 +1,13 @@
 import React from "react";
-import { FaArrowRight, FaGithub } from "react-icons/fa";
+import { FaArrowRight } from "react-icons/fa";
 // import light from '../../../public/light-shop.png'
 import "./Project.css";
-import { Link } from "react-router-dom";
-import { BiRightArrow } from "react-icons/bi";
-import { PiWarningCircleBold, PiWarningOctagonFill } from "react-icons/pi";
+import { PiWarningCircleBold } from "react-icons/pi";
 function Project() {
   return (
     <div className="projects">
       <div className="project">
-        <img src="/light-shop.png" />
+        <img src="/light-shop.png" alt="" />
         <div className="project-content">
           <div className="content-header">
             <span
@@ -43,7 +41,7 @@ function Project() {
         </div>
       </div>
       <div className="project">
-        <img src="/fortunaze.png" />
+        <img src="/fortunaze.png" alt="" />
         <div className="project-content">
           <div className="content-header">
             <span
@@ -72,7 +70,7 @@ function Project() {
         </div>
       </div>
       <div className="project">
-        <img src="/plant.png" />
+        <img src="/plant.png" alt="" />
         <div className="project-content">
           <div className="content-header">
             <span
