@@ -40,7 +40,7 @@ function Navbar() {
           <li><Link to="/" onClick={closeMenu}>Home</Link></li>
           <li><Link to="/about" onClick={closeMenu}>About</Link></li>
           <li><Link to="/resume" onClick={closeMenu}>Resume</Link></li>
-          <li><Link to="/services" onClick={closeMenu}>Services</Link></li>
+          {/* <li><Link to="/services" onClick={closeMenu}>Services</Link></li> */}
           <li><Link to="/projects" onClick={closeMenu}>Projects</Link></li>
         </ul>
       </div>
